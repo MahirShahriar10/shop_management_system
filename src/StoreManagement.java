@@ -17,7 +17,7 @@ public class StoreManagement {
         System.out.println("Customer Id: " + CustomerType.getCustomerId());
 
         */
-        System.out.println("Customer Total Payable Ammount: " + customer.getTotalPurchaseBalance());
+        System.out.println("Customer Total Payable Amount: " + customer.getTotalPurchaseBalance());
 
 
     }
