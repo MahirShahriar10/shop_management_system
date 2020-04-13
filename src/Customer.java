@@ -9,7 +9,8 @@ public abstract class Customer {
     }
 
     public int getCustomerId(){
-        return customerId;
+        return this.customerId;
+        // this দেস নাই
     }
 
     public double getTotalPurchaseBalance(){
